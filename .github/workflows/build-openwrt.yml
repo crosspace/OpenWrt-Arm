@@ -26,9 +26,9 @@ on:
   watch:
     types: started
 
-defaults:
-  run:
-    shell: bash
+#defaults:
+#  run:
+#    shell: bash
 
 env:
   #REPO_URL: https://github.com/coolsnowwolf/lede
