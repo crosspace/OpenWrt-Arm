@@ -21,4 +21,4 @@ git clone https://github.com/tuanqing/install-program package/install-program
 #src-git kenzok https://github.com/kenzok8/openwrt-packages
 #src-git small https://github.com/kenzok8/small
 git clone https://github.com/kenzok8/openwrt-packages package/kenzok
-git clone ttps://github.com/kenzok8/small package/small
+git clone https://github.com/kenzok8/small package/small
